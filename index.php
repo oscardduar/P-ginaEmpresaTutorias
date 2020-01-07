@@ -46,6 +46,7 @@
 
 
 <!--Inicio de portada-->
+
 <section class="portada" id="principal">
 	<div class="container">
 			<div class="row text-center">
@@ -55,21 +56,21 @@
 			<div class="col-12 col-lg pt-2">
 				<h3>Nuestras tutorías integran el conocimiento junto con el desarrollo de una buena memoria, una excelente concentración y el incremento de la autoconfianza.</h3>
 				<h4>Primaria-Básico-Diversificado-Universidad Matemática-Física-Estadística-Química-Inglés-Lenguaje-Cualquier otra Materia-<br>ClasesGrupales-Tareas-Capacitaciones</h4>
-				<form>
+				<form method="post">
  				 <div class="form-row ">
   					  <div class="col-12 col-lg pt-1" >
-  						    <input type="text" class="form-control" placeholder="Tu nombre">
+  						    <input type="text" class="form-control" placeholder="Tu nombre" name="name" required="">
    					 </div>
   					  <div class="col-12 col-lg pt-1">
-  						    <input type="text" class="form-control" placeholder="Tu correo">
+  						    <input type="email" class="form-control" placeholder="Tu correo" name="email" required="">
    					 </div>
  				     </div>
  				 <div class="form-row ">
   					  <div class="col-12  col-lg pt-1">
-  						    <input type="text" class="form-control" placeholder="Tu Telefono">
+  						    <input type="text" class="form-control" placeholder="Tu Telefono" name="phone" required="">
    					 </div>
   					  <div class="col-12 col-lg pt-1">
-  						    <input type="text" class="form-control" placeholder="Cursos que necesitas">
+  						    <input type="text" class="form-control" placeholder="Cursos que necesitas" name="msg" required="">
    					 </div>
    	
   					 </div>
@@ -82,10 +83,16 @@
 
    						 </div>
    						    <div class="col">
-  					     <button type="submit" class="btn btn-primary mb-2">Enviar</button>
+  					     <button type="submit" class="btn btn-primary mb-2" name="enviar">Enviar</button>
    					 </div>
   					 </div>		
 				</form>
+<!--Instrucción para incluir información de php-->
+					<?php
+					include("correo.php");
+					?>
+
+<!--Instrucción para incluir información de php-->
 			</div>
 		</div>
 	</div>
