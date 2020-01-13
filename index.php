@@ -125,15 +125,15 @@
 	<div class="container text-center">
   <div class="row">
     <div class="col-12 col-lg">
-    <img src="img/primaria.png">
+    <img src="img/primaria.jpg">
     <h1>Primaria</h1>
     </div>
     <div class="col-12 col-lg">
-       <img src="img/secundaria.png">
+       <img src="img/secundaria.jpg">
     <h1>Secundaria</h1>
     </div>
         <div class="col-12 col-lg">
-          <img src="img/universidad.png">
+          <img src="img/universidad.jpg">
     <h1>Universidad</h1>
     </div>
   </div>
@@ -199,24 +199,24 @@
 											    <div class="col-12 col-lg pb-2">
 											    	<h2> Nuestros Planes </h2>
 											    	<button type="button" class="btn btn-secondary" data-toggle="tooltip" data-placement="top" title="Tooltip on top">
-											  Plan Light
+											  Plan Básico
 											</button>
-											    	<p>2 Sesiones por Semana<br>
-											    </p>
+											<p>1 Sesión por Semana<br>
+											    	2 horas por sesión</p>
 											    	     	<button type="button" class="btn btn-secondary" data-toggle="tooltip" data-placement="top" title="Tooltip on top">
 											  Plan Standard
 											</button>
-											    	<p>2 Sesiones por Semana<br>
+											    	<p>3 Sesiones por Semana<br>
 											    	2 horas por sesión</p>
 											    	      	<button type="button" class="btn btn-secondary" data-toggle="tooltip" data-placement="top" title="Tooltip on top">
 											  Plan Premium
 											</button>
-											    	<p>3 Sesiones por Semana<br>
+											    	<p>5 Sesiones por Semana<br>
 											    	2 horas por sesión</p>
 											    	     	      	<button type="button" class="btn btn-secondary" data-toggle="tooltip" data-placement="top" title="Tooltip on top">
-											  Plan Gold
+											  Plan Personalizado
 											</button>
-											    	<p>5 Sesiones por Semana<br>
+											    	<p>Arma tu plan<br>
 											    	2 horas por sesión<br><br></p>
 
 											    	<p><b>Todos nuestros planes<br>
