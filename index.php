@@ -2,13 +2,8 @@
 <html>
 <head>
 	<title>Sthartutorias</title>
-	<link rel="stylesheet" type="text/css" href="css/estilos.css">
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	
-	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-	<link rel="stylesheet" href="css/media.css" media="screen and (max-width:768px)"/>
-	<link rel="shortcut icon" type="img/x-icon" href="img/favicon.ico">
+
 </head>
 <body>
 
@@ -54,7 +49,7 @@
 			<img src="img/imagenportada4.jpg">
 			</figure>
 			<div class="col-12 col-lg pt-2">
-				<h3>Nuestras tutorías integran el conocimiento junto con el desarrollo de una buena memoria, una excelente concentración y el incremento de la autoconfianza.</h3>
+				<h3>Te ofrecemos tutorias a domicilio en toda Guatemala y de todas las materias. Si lo que quieres es mejorar tus notas sin duda Sthartutorias es tu mejor opción. Atención las 24 Hrs.</h3>
 				<h4>Primaria-Básico-Diversificado-Universidad Matemática-Física-Estadística-Química-Inglés-Lenguaje-Cualquier otra Materia-<br>ClasesGrupales-Tareas-Capacitaciones</h4>
 				<form method="post">
  				 <div class="form-row ">
@@ -104,7 +99,7 @@
 <section class="beneficios" id="beneficios">
 	<div class="container">
 			<h1>Nuestros Beneficios</h1>
-	<p>Te ofrecemos tutorías en todas las materias, contamos con matemática, física, química, inglés, computación, programación y muchas más, lo mejor es que nuestros servicios son a domicilio y a toda Guatemala. Nuestros tutores son personas de reconocida integridad para que te sientas en confianza. Pregunta sin compromiso.</p>
+	<p>Te ofrecemos clases personalizadas en todas las materias, contamos con matemática, física, química, inglés, computación, programación y muchas más. Lo mejor es que nuestros servicios son hasta la puerta de tu casa y a toda Guatemala. Nuestros tutores son personas de mucha integridad y conocimiento. Pregunta sin compromiso.</p>
 		<div class=" flex-container">	<iframe class="ivideo" src="https://www.youtube.com/embed/f2In_bCOqXw?autoplay=1&amp;loop=1"></iframe></div>
     </div>
 </section>
@@ -179,11 +174,7 @@
   		  <div class="col-12 col-lg">
 
     			<h2> Acerca de Nosotros</h2>
- 					  <p> Somos un equipo integrado por pedagogos,
-  					 ingenieros, maestros y estudiantes universitarios
-					que destacan en sus áreas de estudios, algunos de nuestros 
-					integrantes destacados son ganadores de Premio a la Excelencia y otros
-					han obtenido los primeros lugares en Olimpiadas de Ciencias y Matemática. Nuestra pasión es la enseñanza de la ciencia y el arte, contamos con más de 10 años de experiencia en el área apoyando a niños, adolescentes y adultos.
+ 					  <p> Contamos con un equipo integrado por pedagogos, ingenieros, maestros y estudiantes universitarios que destacan en sus áreas de estudios, algunos de nuestros integrantes destacados son ganadores de Premio a la Excelencia y otros han obtenido los primeros lugares en Olimpiadas de Ciencias y Matemática. Nuestra pasión es la enseñanza de la ciencia y el arte, contamos con más de 10 años de experiencia en el área apoyando a niños, adolescentes y adultos.
 						</p>
 
 
@@ -241,6 +232,24 @@
 <footer>
 	<p>Derechos de autor 2008 ©</p>
 </footer>
+
+<!--inicio de los enlaces de diseño-->
+<link rel="stylesheet" type="text/css" href="css/estilos.css">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+	
+	
+	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+	<link rel="stylesheet" href="css/media.css" media="screen and (max-width:768px)"/>
+	<link rel="shortcut icon" type="img/x-icon" href="img/favicon.ico">
+
+<!--Fin de los enlaces de diseño-->
+
+
+
+
+
+
+
 
 <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
