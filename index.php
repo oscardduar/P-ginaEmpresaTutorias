@@ -3,7 +3,7 @@
 <head>
 	<title>Sthartutorias</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+	<link rel="stylesheet" type="text/css" href="css/estilos.css">
 </head>
 <body>
 
@@ -36,7 +36,9 @@
   </div>
 		</div>
 </nav>
+
 </header>
+
 <!--Fin del header-->
 
 
@@ -46,7 +48,7 @@
 	<div class="container">
 			<div class="row text-center">
 			<figure class="col-12 col-lg pt-3">
-			<img src="img/imagenportada4.jpg">
+			<img src="img/imagenportada4.jpg" srcset="img/imagenportada4.jpg, img/opcion2.jpg 2x" alt="Imagen Portada">
 			</figure>
 			<div class="col-12 col-lg pt-2">
 				<h3>Te ofrecemos tutorias a domicilio en toda Guatemala y de todas las materias. Si lo que quieres es mejorar tus notas sin duda Sthartutorias es tu mejor opción. Atención las 24 Hrs.</h3>
@@ -233,17 +235,19 @@
 	<p>Derechos de autor 2008 ©</p>
 </footer>
 
-<!--inicio de los enlaces de diseño-->
-<link rel="stylesheet" type="text/css" href="css/estilos.css">
+<!--inicio de los enlaces de diseño
+
+-->
+
+
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 	
 	
 	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 	<link rel="stylesheet" href="css/media.css" media="screen and (max-width:768px)"/>
 	<link rel="shortcut icon" type="img/x-icon" href="img/favicon.ico">
-
 <!--Fin de los enlaces de diseño-->
-
+co
 
 
 
